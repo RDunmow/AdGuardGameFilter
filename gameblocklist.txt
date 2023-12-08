@@ -162,3 +162,8 @@
 ||cellgames.com.lan^$important
 ||gamejolt.com^$important
 ||files.brightestgames.com^$important
+||games.yandex.com^$important
+||yandex.net^$important
+||exitgames.com.lan^$important
+||playhop.com^$important
+||gamesx.com^$important
