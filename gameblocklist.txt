@@ -167,3 +167,11 @@
 ||exitgames.com.lan^$important
 ||playhop.com^$important
 ||gamesx.com^$important
+||crazygames.com^$important
+||gameis.net^$important
+||gameflare.com.lan^$important
+||sgames.org^$important
+||freeonlinegames.com^$important
+||yandex.com^$important
+||kbhgames.com^$important
+||run3game.io^$important
