@@ -174,4 +174,5 @@
 ||freeonlinegames.com^$important
 ||yandex.com^$important
 ||kbhgames.com^$important
+||hitbox.io^$important
 ||run3game.io^$important
