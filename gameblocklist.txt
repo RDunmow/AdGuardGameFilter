@@ -122,8 +122,6 @@
 ||bash.gg^$important
 ||sites.google.com^$important
 ||moomoo.io^$important
-||blooket.com^$important
-||blooket.io^$important
 ||shellshock.io.lan^$important
 ||taming.io.lan^$important
 ||taming.io^$important
